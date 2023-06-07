@@ -1,0 +1,3 @@
+
+
+CHAT_GPT_API_KEY  ='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'
